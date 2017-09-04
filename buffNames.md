@@ -21,11 +21,12 @@
 	* 说明：这个建议根据自己需求，在插件界面手动加buff名称，这里只给个样例
 	* 复制内容
 		
-		---
-	{cdBarWidth=240,showBuffName=true,maxLineCount=16,scale=1,boxBgUITex="UI/Image/Common/Box.UITex|44",cdBarUITex="./Interface/MY/MY_!Base/image/ST_UI.UITex|7",dragable=true,caption="重要自身buff",hideVoidBuff=true,cdBar=false,hideOthers=true,anchor={y=261.54742431641,x=23.090599060059,s="LEFTCENTER",r="LEFTCENTER"},target="CLIENT_PLAYER",enable=true,monitors={[10026]={{iconid=13,buffname="疾如风",ids={},enable=true},{iconid=13,buffname="守如山",ids={},enable=true},{iconid=13,buffname="啸如虎",ids={},enable=true}}}}
+	```
+		{cdBarWidth=240,showBuffName=true,maxLineCount=16,scale=1,boxBgUITex="UI/Image/Common/Box.UITex|44",cdBarUITex="./Interface/MY/MY_!Base/image/ST_UI.UITex|7",dragable=true,caption="重要自身buff",hideVoidBuff=true,cdBar=false,hideOthers=true,anchor={y=261.54742431641,x=23.090599060059,s="LEFTCENTER",r="LEFTCENTER"},target="CLIENT_PLAYER",enable=true,monitors={[10026]={{iconid=13,buffname="疾如风",ids={},enable=true},{iconid=13,buffname="守如山",ids={},enable=true},{iconid=13,buffname="啸如虎",ids={},enable=true}}}}
 		
-		---
-		
+	```
+	
+	
 	* 预览
 
 <pre>
